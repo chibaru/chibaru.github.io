@@ -5,9 +5,4 @@ div.ex1 {
   overflow: scroll;
 }
 
-::-webkit-scrollbar { display: none; }
-
-.ex1 {
-   scrollbar-width: none;
-}
 
